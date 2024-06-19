@@ -12,25 +12,25 @@ def main():
     start_date = input("Enter the start date (YYYY-MM-DD): ")
     end_date = input("Enter the end date (YYYY-MM-DD): ")
     
-    # ÏÂÔØÊı¾İ²¢±£´æµ½ÎÄ¼ş
+    # ä¸‹è½½è‚¡ç¥¨æ•°æ®å¹¶ä¿å­˜åˆ°æ–‡ä»¶
     download_data(ticker, start_date, end_date)
     
-    # ´ÓÎÄ¼ş¼ÓÔØÊı¾İ
+    # ä»æ–‡ä»¶åŠ è½½æ•°æ®
     data = load_data(ticker)
     
-    # ¼ÆËã¼¼ÊõÖ¸±ê
+    # è®¡ç®—æŠ€æœ¯æŒ‡æ ‡
     data = compute_indicators(data)
     
-    # Ó¦ÓÃ½»Ò×²ßÂÔ
+    # åº”ç”¨äº¤æ˜“ç­–ç•¥
     data = trading_strategy(data)
     
-    # ¼ì²éÊÇ·ñÓĞÂòÈë»òÂô³öĞÅºÅ
+    # æ£€æŸ¥æ˜¯å¦æœ‰ä¹°å…¥æˆ–å–å‡ºä¿¡å·
     if data['Buy_Signal'].isna().all() and data['Sell_Signal'].isna().all():
         print("No buy or sell signals were generated.")
     else:
         print("Buy and sell signals have been generated.")
     
-    # »æÖÆ¼Û¸ñºÍ½»Ò×ĞÅºÅÍ¼
+    # ç»˜åˆ¶ä»·æ ¼å’Œäº¤æ˜“ä¿¡å·å›¾
     plot_signals(data, ticker)
 
 if __name__ == "__main__":
