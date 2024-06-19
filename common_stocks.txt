@@ -1,0 +1,39 @@
+!!!注意不要复制空格!!!
+
+美国股票
+Apple Inc. (AAPL): AAPL
+Microsoft Corporation (MSFT): MSFT
+Amazon.com, Inc. (AMZN): AMZN
+Alphabet Inc. (Google) (GOOGL): GOOGL
+Facebook, Inc. (Meta Platforms) (META): META
+Tesla, Inc. (TSLA): TSLA
+NVIDIA Corporation (NVDA): NVDA
+Berkshire Hathaway Inc. (BRK.A): BRK-A
+JPMorgan Chase & Co. (JPM): JPM
+Johnson & Johnson (JNJ): JNJ
+中国股票（在美国上市的中概股）
+Alibaba Group Holding Limited (BABA): BABA
+Baidu, Inc. (BIDU): BIDU
+JD.com, Inc. (JD): JD
+NIO Inc. (NIO): NIO
+Pinduoduo Inc. (PDD): PDD
+Xiaomi Corporation (XIACF): XIACF
+Tencent Holdings Limited (TCEHY): TCEHY
+中国股票（A股）
+上证指数 (Shanghai Composite Index): 000001.SS
+深圳成指 (Shenzhen Component Index): 399001.SZ
+中国平安 (Ping An Insurance): 601318.SS
+贵州茅台 (Kweichow Moutai): 600519.SS
+招商银行 (China Merchants Bank): 600036.SS
+香港股票
+腾讯控股 (Tencent Holdings Limited): 0700.HK
+阿里巴巴 (Alibaba Group Holding Limited): 9988.HK
+美团 (Meituan Dianping): 3690.HK
+中国移动 (China Mobile Limited): 0941.HK
+汇丰控股 (HSBC Holdings plc): 0005.HK
+常见指数
+道琼斯工业平均指数 (Dow Jones Industrial Average): ^DJI
+标准普尔500指数 (S&P 500 Index): ^GSPC
+纳斯达克综合指数 (Nasdaq Composite Index): ^IXIC
+日经225指数 (Nikkei 225): ^N225
+德国DAX指数 (DAX Index): ^GDAXI
