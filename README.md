@@ -11,7 +11,7 @@ This project is designed to perform quantitative trading analysis on various sto
 
 ## Requirements
 
-- Python 3.7 or higher
+- Python 3.9 (recommended)
 - pandas
 - numpy
 - TA-Lib
@@ -22,20 +22,20 @@ This project is designed to perform quantitative trading analysis on various sto
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quantitative-trading-analysis.git
-    cd quantitative-trading-analysis
+    git clone https://github.com/QwenchC/Simple-QuantTrade.git
+    cd Simple-QuantTrade
     ```
 
 2. Install the required packages:
     ```bash
-    pip install pandas numpy ta-lib yfinance matplotlib
+    pip install -r requirements.txt
     ```
 
 ## Usage
 
 1. Run the main script:
     ```bash
-    python main.py
+    python QTAnalysis.py
     ```
 
 2. Enter the ticker symbol of the stock or index you want to analyze when prompted. For example:
