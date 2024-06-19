@@ -12,7 +12,7 @@ def main():
     start_date = input("Enter the start date (YYYY-MM-DD): ")
     end_date = input("Enter the end date (YYYY-MM-DD): ")
     
-    # 下载股票数据并保存到文件
+    # 下载数据并保存到文件
     download_data(ticker, start_date, end_date)
     
     # 从文件加载数据
