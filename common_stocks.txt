@@ -19,6 +19,7 @@ NIO Inc. (NIO): NIO
 Pinduoduo Inc. (PDD): PDD
 Xiaomi Corporation (XIACF): XIACF
 Tencent Holdings Limited (TCEHY): TCEHY
+
 中国股票（A股）
 上证指数 (Shanghai Composite Index): 000001.SS
 深圳成指 (Shenzhen Component Index): 399001.SZ
@@ -31,6 +32,7 @@ Tencent Holdings Limited (TCEHY): TCEHY
 美团 (Meituan Dianping): 3690.HK
 中国移动 (China Mobile Limited): 0941.HK
 汇丰控股 (HSBC Holdings plc): 0005.HK
+
 常见指数
 道琼斯工业平均指数 (Dow Jones Industrial Average): ^DJI
 标准普尔500指数 (S&P 500 Index): ^GSPC
