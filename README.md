@@ -46,7 +46,7 @@ This project is designed to perform quantitative trading analysis on various sto
 
 ## Project Structure
 
-- `main.py`: The main script to run the analysis.
+- `QTAnalysis.py`: The main script to run the analysis.
 - `trading_functions.py`: Contains functions for downloading data, computing indicators, applying trading strategies, and plotting signals.
 - `README.md`: Project documentation.
 
